@@ -6,4 +6,6 @@ I am hoping that by going through these 'some-what' simple programs, you are ins
 
 HAPPY LEARNING WITH ME!!!
 
-p.s. I hope to document along the way concepts that I find important in achieving at least an 80% success in writing c programs.
+p.s. I hope to document along the way concepts that I find important in achieving at least an 80% success in writing c programs
+
+Also note that the text-reference for this repository is A-Book-On-C by Al Kelley and Ira Pohl.
